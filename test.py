@@ -1,1 +1,1 @@
-prin("Hello, PRINCE mishra")
+print("Hello, PRINCE mishra")
